@@ -15,7 +15,7 @@ I wrote 4 Algorithms completely on my own. For Dancing Links (This is a quite ch
 
 # 2/ Web app version
 
-I also deploy this code to the web. Please check it out here: https://abcdecoder.github.io/sudokus-olver-visualizer.github.io/
+I also deploy this code to the web. Please check it out here: https://abcdecoder.github.io/sudokus-solver-visualizer.github.io/
 
 March 2022
 
